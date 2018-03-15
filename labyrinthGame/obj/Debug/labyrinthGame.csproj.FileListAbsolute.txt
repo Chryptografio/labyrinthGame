@@ -1,0 +1,10 @@
+C:\Users\nadejda\source\repos\labyrinthGame\labyrinthGame\bin\Debug\labyrinthGame.exe.config
+C:\Users\nadejda\source\repos\labyrinthGame\labyrinthGame\bin\Debug\labyrinthGame.exe
+C:\Users\nadejda\source\repos\labyrinthGame\labyrinthGame\bin\Debug\labyrinthGame.pdb
+C:\Users\nadejda\source\repos\labyrinthGame\labyrinthGame\obj\Debug\labyrinthGame.csprojResolveAssemblyReference.cache
+C:\Users\nadejda\source\repos\labyrinthGame\labyrinthGame\obj\Debug\labyrinthGame.Form1.resources
+C:\Users\nadejda\source\repos\labyrinthGame\labyrinthGame\obj\Debug\labyrinthGame.Properties.Resources.resources
+C:\Users\nadejda\source\repos\labyrinthGame\labyrinthGame\obj\Debug\labyrinthGame.csproj.GenerateResource.Cache
+C:\Users\nadejda\source\repos\labyrinthGame\labyrinthGame\obj\Debug\labyrinthGame.csproj.CoreCompileInputs.cache
+C:\Users\nadejda\source\repos\labyrinthGame\labyrinthGame\obj\Debug\labyrinthGame.exe
+C:\Users\nadejda\source\repos\labyrinthGame\labyrinthGame\obj\Debug\labyrinthGame.pdb
